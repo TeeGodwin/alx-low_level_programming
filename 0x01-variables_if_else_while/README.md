@@ -1,1 +1,1 @@
-C - Variables, if, else, while
+variables, else ,if and while
