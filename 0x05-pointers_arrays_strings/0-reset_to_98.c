@@ -1,8 +1,8 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 
 /**
- * 0-reset_to_98.c
+ * reset_to_98 - update pointer value to 98
  * @n: parameter to be provided
  * Return: Always 0 (Success)
  */
