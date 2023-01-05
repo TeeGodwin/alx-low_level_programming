@@ -6,7 +6,7 @@
  * Return: an integer that displays the length of the string
  */
 
-int _strlen_recursion(char *s);
+int _strlen_recursion(char *s)
 {
 	if (*str == '\0')
 		return (1 + _strlen_recursion(s + 1));
